@@ -9,7 +9,7 @@ export const restaurants = [
     businessHours: { open: '11:00', close: '22:00' },
     rooms: [
       { type: 'hall', capacity: 100, availableSlots: ['12:00','13:00','18:00','19:00','20:00','21:00'] },
-      { type: 'private', capacity: 8, availableSlots: ['12:00','13:00','20:00','21:00'] }
+      { type: 'private', capacity: 8, availableSlots: ['13:00','20:00','21:00'] }
     ],
     services: ['birthday', 'business', 'romantic'],
     deposit: 200
