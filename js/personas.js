@@ -47,7 +47,7 @@ export const personas = [
   },
   {
     id: 'couple',
-    emoji: '💑',
+    emoji: '👫',
     name: '小李&小周',
     title: '25岁 · 情侣约会 · 求仪式感',
     salutation: '李女士',
