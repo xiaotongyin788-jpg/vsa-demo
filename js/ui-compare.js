@@ -1,5 +1,5 @@
 import { scenarios } from './scenarios.js';
-import { restaurants } from './data.js';
+import { restaurants } from './data.js?v=20260526';
 import { parseNaturalLanguage } from './dsl.js';
 import { verifyPredicates, verifyCritical } from './verifier.js';
 

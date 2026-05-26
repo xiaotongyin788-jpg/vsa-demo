@@ -1,4 +1,4 @@
-import { restaurants } from './data.js';
+import { restaurants } from './data.js?v=20260526';
 import { parseNaturalLanguage, formatDSL } from './dsl.js';
 import { verifyPredicates, verifyCritical } from './verifier.js';
 import { generateFeedback } from './feedback.js';

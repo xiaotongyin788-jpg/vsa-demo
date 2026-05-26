@@ -1,4 +1,4 @@
-import { restaurants } from './data.js';
+import { restaurants } from './data.js?v=20260526';
 import { scenarios } from './scenarios.js';
 
 export function renderRestaurantList() {

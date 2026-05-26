@@ -1,3 +1,4 @@
+// DATA_VERSION_MARKER: 2026-05-26-v3 (cuiyuan 12:00/18:00 removed, laocheng 18:00 removed)
 export const restaurants = [
   {
     id: 'cuiyuan',
